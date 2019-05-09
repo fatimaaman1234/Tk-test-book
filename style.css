@@ -1,0 +1,77 @@
+/* Write your CSS below. Try to make it responsive (i.e. no horizontal scroll) */
+
+body{
+    background-color: #f7f7f7;
+
+
+}
+header{
+    background-color: #ffffff;
+}
+#logo{
+    text-align: left;
+    display: inline-block;
+}
+
+ul{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1em;
+    text-align: right;
+}
+li{
+    display: inline-block;
+    text-align: right;
+    margin: 20px;
+
+}
+#monster-farts{
+    text-align: left;
+    display: inline-block;
+    margin: 50px;
+
+
+}
+
+
+#book{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#cart-btn{
+    background-color: #f2849e;
+    padding: 1em 3em;
+    border: none;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+#cart-btn:hover{
+    background-color: #ec4b75;
+
+}
+
+#para{
+    margin: 1em 20em; 
+}
+
+#list{
+    display:block;
+    
+}
+
+#details{
+    display: block;
+}
+
+#paperback{
+    display: block;
+}
+#stars2{
+    background-color: #f8bc41;
+}
+
+footer{
+    margin:1em 20em;
+}
+    
